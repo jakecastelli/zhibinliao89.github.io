@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publication123"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,4 +21,8 @@ Jianpeng Zhang, Yutong Xie, **Zhibin Liao**, Guansong Pang, Johan Verjans, Wenxi
 Yi Li, Chunhua Shen, and Yong Xia. "Viral Pneumonia Screening on Chest X-ray Images
 Using Confidence-Aware Anomaly Detection". *arXiv: 2003.12338* (2020).
 
-**Zhibin Liao**, Lingqiao Liu, Qi Wu, Damien Teney, Chunhua Shen, Anton van den Hengel, Johan Verjans. "Medical Data Inquiry Using a Question Answering Model". In 2020 IEEE 17th International Symposium on Biomedical Imaging ***(ISBI)***. IEEE, pp. 1490-1493.
+**Zhibin Liao**, Lingqiao Liu, Qi Wu, Damien Teney, Chunhua Shen, Anton van den Hengel, Johan Verjans. "Medical Data Inquiry Using a Question Answering Model". In 2020 IEEE 17th International Symposium on Biomedical Imaging ***(ISBI)***. IEEE, pp. 1490-1493, 2020.
+
+**Zhibin Liao**, Hany Girgis, Amir Abdi, Hooman Vaseli, Jorden Hetherington, Robert Rohling, Ken Gin, Teresa Tsang, Purang Abolmaesumi. "On Modelling Label Uncertainty in Deep Neural Networks: Automatic Estimation of Intra-observer Variability in 2D Echocardiography Quality Assessment". IEEE Transactions on Medical Imaging ***(ITMI)*** 39.6, pp.1868-1883, 2019.
+
+**Zhibin Liao**, Mohammad H Jafari, Hany Girgis, Kenneth Gin, Robert Rohling, Purang Abolmaesumi, Teresa Tsang. "Echocardiography view classification using quality transfer star generative adversarial networks".  In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 687-695). Springer, Cham.
