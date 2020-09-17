@@ -15,6 +15,8 @@ author_profile: true
   #{% include archive-single.html %}
 {% endfor %} --->
 
+{% include base_path %}
+
 Yutong Xie, Jianpeng Zhang, **Zhibin Liao**, Chunhua Shen, Johan Verjans, Yong Xia. "Pairwise Relation Learning for Semi-supervised Gland Segmentation". *arXiv preprint arXiv:2008.02699* (2020).
 
 Jianpeng Zhang, Yutong Xie, **Zhibin Liao**, Guansong Pang, Johan Verjans, Wenxin Li, Zongji Sun, Jian He, Yi Li, Chunhua Shen, and Yong Xia. "Viral Pneumonia Screening on Chest X-ray Images
