@@ -15,7 +15,10 @@ author_profile: true
   #{% include archive-single.html %}
 {% endfor %} --->
 
+Yutong Xie, Jianpeng Zhang, **Zhibin Liao**, Chunhua Shen, Johan Verjans, Yong Xia. "Pairwise Relation Learning for Semi-supervised Gland Segmentation". *arXiv preprint arXiv:2008.02699* (2020).
+
 Jianpeng Zhang, Yutong Xie, **Zhibin Liao**, Guansong Pang, Johan Verjans, Wenxin Li, Zongji Sun, Jian He,
 Yi Li, Chunhua Shen, and Yong Xia. "Viral Pneumonia Screening on Chest X-ray Images
 Using Confidence-Aware Anomaly Detection". *arXiv: 2003.12338* (2020).
 
+**Zhibin Liao**, Lingqiao Liu, Qi Wu, Damien Teney, Chunhua Shen, Anton van den Hengel, Johan Verjans. "Medical Data Inquiry Using a Question Answering Model". In 2020 IEEE 17th International Symposium on Biomedical Imaging ***(ISBI)***. IEEE, pp. 1490-1493.
