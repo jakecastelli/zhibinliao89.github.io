@@ -38,6 +38,8 @@ Journal papers
 Thesis
 * **Zhibin Liao**. "Methods for Understanding and Improving Deep Learning Classification Models[D]". 2017.
 
+Patents
+* Purang Abolmaesumi, Robert Rohling, Teresa Tsang, Zhibin Liao, Amir Abdi. "Ultrasonic image analysis". United States patent US20200069292A1. 2020 Mar 5.
 
 
 
