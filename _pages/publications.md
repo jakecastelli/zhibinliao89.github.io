@@ -1,21 +1,9 @@
 ---
 layout: archive
-title: "Publication123"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<!---{% if author.googlescholar %}
-  #You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post to site.publications reversed %}
-  #{% include archive-single.html %}
-{% endfor %} --->
-
-{% include base_path %}
 
 Yutong Xie, Jianpeng Zhang, **Zhibin Liao**, Chunhua Shen, Johan Verjans, Yong Xia. "Pairwise Relation Learning for Semi-supervised Gland Segmentation". *arXiv preprint arXiv:2008.02699* (2020).
 
