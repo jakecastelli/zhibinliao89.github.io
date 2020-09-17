@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Math and Comp. Sci., Australian Centre for Robotic Vision, University of Adelaide, 2017
+* Ph.D in Comp. Sci., Australian Centre for Robotic Vision, University of Adelaide, 2017
 * Hon. of Comp. Sci. (1st Class), University of Adelaide, 2013
   * Awards:  
     * The Google Prize for Honors Computer Science 	(2014)
